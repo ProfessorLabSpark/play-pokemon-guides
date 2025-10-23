@@ -1,74 +1,97 @@
 # 🧩 Getting Started with Your Pokémon Club
 
-Welcome to the world of Play! Pokémon community organizing! Whether you're launching a club at a library, school, game store, or community center, this guide will help you lay a strong foundation for inclusive, engaging, and trauma-informed play.
+This guide walks you through the process of forming a Pokémon Club in partnership with your local library, using the official application provided by The Pokémon Company International (TPCi) and the American Library Association (ALA). It covers outreach, application support, and key milestones from initial contact to receiving your welcome kit.
 
 ---
 
-## 🎯 Purpose of a Pokémon Club
-A Pokémon Club is a welcoming space where kids, families, and fans can gather to:
-- Learn how to play the Pokémon Trading Card Game (TCG)
-- Practice skills and sportsmanship
-- Build friendships and community
-- Explore the world of Pokémon through play and creativity
+## 📝 How to Start a Pokémon Club Application
+
+If you're ready to launch a Pokémon Club through your local library, here’s a step-by-step guide to help you navigate the process.
+
+### ✅ Pre-Requirements
+
+Before you begin, make sure you have:
+- **A library partner**: Someone with access to the American Library Association (ALA) portal and authority to submit the application.
+- **A proposed club structure**: Basic ideas for age range, frequency, and activities (e.g., Learn to Play, casual battles).
+- **Community support**: Interest from families, kids, or staff who want to participate or help.
+- **Optional support from a certified Professor or Organizer**: While not required for approval, having someone familiar with Play! Pokémon programs can help with mentorship, logistics, and club development.
 
 ---
 
-## 🛠️ First Steps
+### 🪜 Application Steps
 
-### 1. Define Your Audience
-- Who are you serving? (e.g., kids 6–12, teens, families)
-- What kind of support do they need? (e.g., Learn to Play, casual battles, tournament prep)
+1. **Review the Pokémon Club announcement**  
+   Visit [Pokemon.com](https://www.pokemon.com/us/pokemon-news/pokemon-club-program-combines-learning-and-passion-for-pokemon) to understand the goals and benefits of the program.
 
-### 2. Choose a Location
-- Partner with a local library, school, or game store
-- Ensure the space is safe, accessible, and welcoming
+2. **Contact your library partner**  
+   Share the opportunity and confirm they can access the ALA application portal. Offer to assist with planning and descriptions.
 
-### 3. Set a Schedule
-- Weekly or biweekly sessions work well
-- Consider after-school hours or weekend mornings
+3. **Draft your club description**  
+   Include:
+   - Target audience (e.g., kids 6–12)
+   - Planned activities (e.g., Learn to Play, Reward Passport)
+   - Community values (e.g., trauma-informed, inclusive, welcoming)
 
-### 4. Gather Materials
-- Demo decks or starter kits
-- Damage counters, coins, playmats
-- Sign-in sheets and parental consent forms (if needed)
+4. **Submit the application via ALA portal**  
+   The librarian will complete the form and submit it on behalf of the library. You may be asked to provide supporting details or feedback.
+
+5. **Confirm submission and await approval**  
+   Once submitted, TPCi will review the application. Approval typically results in a welcome kit with materials to support your club.
+
+6. **Celebrate and prepare for launch!**  
+   After approval, begin planning your first session, organizing materials, and welcoming your community.
 
 ---
 
-## 📬 Collaborating with a Library
+## 🧾 Sample Club Description
 
-Establishing a partnership with a public library can be a powerful way to launch your club. Here's a general outline of the process we followed:
+Here’s a sample you can adapt for your application:
 
-### 🗓️ Library Partnership Timeline
+> **Pokémon Club at [Library Name]**  
+> Our Pokémon Club is a welcoming, inclusive space for kids ages 6–12 to learn and play the Pokémon Trading Card Game (TCG). Led by a certified Professor and supported by library staff, the club offers Learn to Play sessions, casual battles, and community-building activities. We use trauma-informed practices to ensure emotional safety, and we encourage creativity, sportsmanship, and fun.  
+>  
+> The club meets [weekly/biweekly] on [day/time] and is free to attend. All materials are provided, and no prior experience is required. Our goal is to foster confidence, connection, and a love of learning through the world of Pokémon.
+
+---
+
+## 🗓️ Library Partnership Timeline (Focused on Club Setup)
 
 | Date | Step | Notes |
 |------|------|-------|
-| **September 16, 2025** | Initial in-person meeting with librarian | Signed up as a volunteer organizer and completed background checks. Shared early info about TPCi’s rumored Pokémon Club initiative for libraries and schools. No formal details were available at the time. |
-| **September 24, 2025** | Pokémon Club officially announced | The Pokémon Club program was formally launched by TPCi in partnership with the American Library Association. Announcement shared via [Pokemon.com](https://www.pokemon.com/us/pokemon-news/pokemon-club-program-combines-learning-and-passion-for-pokemon), Professor Discord, and the US-Southwest RPC. |
-| **September 24, 2025** | Initial outreach email to librarian | Introduced the Pokémon Club opportunity and explained the need for someone with ALA access to complete the application. Offered credentials and support as a certified Professor, Judge, and Organizer. |
+| **September 24, 2025** | Initial outreach email to library partner | Introduced the Pokémon Club opportunity and explained the need for someone with ALA access to complete the application. Offered credentials and support from a certified Professor or Organizer. |
 | **October 1, 2025** | Follow-up email | Sent a reminder that the application portal should now be live. Reiterated willingness to assist with the process. |
-| **October 3, 2025** | Librarian response | Librarian replied, noting technical issues accessing the application page. Planned to try again the following week. |
-| **October 6, 2025** | Application submitted | Librarian confirmed submission of the Pokémon Club application. Requested help describing club activities and gathering member feedback. |
-| **October 9–19, 2025** | Co-authored program description | Collaborated with librarian to refine the application. Highlighted community funding, trauma-informed design, and signature features like the Reward Passport and community raffle. |
-| **October 21, 2025** | Event published and sponsorship offered | Librarian confirmed the Pokémon Club event was added to the library’s public calendar ([LibCal listing](https://roundrocktexas.libcal.com/event/12402169)). Offered to list Bryan’s email for questions and proposed sponsorship from the Friends of the Library to cover tournament costs. Expressed interest in reusing the ALA blurb for future events. |
-
----
-
-## 🌱 Trauma-Informed Foundations
-- Create clear, predictable routines
-- Offer sensory-friendly options (quiet zones, fidget tools)
-- Use positive reinforcement and scaffolding
-- Be mindful of emotional safety and inclusion
+| **October 3, 2025** | Library response | Library partner replied, noting technical issues accessing the application page. Planned to try again the following week. |
+| **October 6, 2025** | Application submitted | Library partner confirmed submission of the Pokémon Club application. Requested help describing club activities and gathering member feedback. |
+| **October 9–19, 2025** | Co-authored program description | Collaborated to refine the application. Highlighted community funding, trauma-informed design, and signature features like the Reward Passport and Learn to Play mentorship. |
+| **October 22, 2025** | Confirmation email received | An automated message was sent via Airtable confirming the club’s selection. The email congratulated the recipient and noted that a welcome kit would be sent. For questions or support, it referenced the official contact address: `pokemon@ala.org`.
 
 ---
 
 ## 📦 What’s Next
-Once your club is up and running, you can explore:
-- Learn to Play sessions
-- Casual tournaments
-- Professor certification (see `professor-path/`)
-- Outreach and community events
+
+Once your application is approved, you’ll receive a welcome kit from TPCi with materials to support your club. At that point, you can begin planning your first Learn to Play session, building your community, and exploring additional resources like Professor certification and event organizing.
+
+---
+
+## 🧠 To-Do & Open Questions
+
+#### 📋 Information Needed for Application
+- [ ] What specific fields are required in the ALA application form?
+- [ ] Can organizers preview or assist with the form before submission?
+- [x] Is a certified Professor or Organizer required for approval? → **No.** The application must be submitted by a library staff member with ALA access.
+
+#### 📊 Reporting Requirements
+- [ ] What reports must the librarian submit after launch?
+- [ ] How frequently are reports due (monthly, quarterly)?
+- [ ] What format or platform is used for reporting?
+
+#### 🧑‍🏫 Role of Professors and Organizers
+- Organizer certification is **not required** to apply for or run a Pokémon Club.
+- [ ] Can a certified Professor or Organizer be designated to assist with club reporting, attendance, or event listings?
+- [ ] Will future reporting be managed through Airtable, Play! Tools, or another platform?
+- [ ] Is there a support role similar to a League Assistant for Pokémon Clubs?
 
 ---
 
 🧠 Written with care by **Professor LabSpark**  
-🌟 Sparklab Studio | Round Rock Pokémon Kids Club
+🌟 Sparklab Studio | Pokémon Club Organizer & Mentor
