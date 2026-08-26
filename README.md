@@ -6,7 +6,9 @@ A repository of guides based on experience as a Pokémon Professor — covering 
 
 ### Professor Guides
 
-- [Judge Quick Reference](professor-guides/judge-quick-reference.md) — age divisions, Swiss round counts, tiebreaker math (MW%/OMW%/OOWP), and prizing tables for Challenges, Cups, and mixed-age League events.
+- [Judge Quick Reference](professor-guides/judge-quick-reference.md) — single-page cheat sheet: age divisions, Swiss round counts, tiebreaker math (MW%/OMW%/OOWP), and prizing tables for Challenges, Cups, and mixed-age League events.
+- [Judge Quick Reference (multi-page book, in progress)](<professor-guides/judge-quick-reference/00-index.md>) — the same material broken into chapters with more depth. Currently covers tournament structure; more chapters planned.
+- [Organizer Quick Reference (multi-page book, in progress)](<professor-guides/organizers-quick-reference/00-index.md>) — prizing rules, pool calculation, distribution and proportional models, and prize tables for Tournament Organizers. More chapters (sanctioning, EventLink, staffing, reporting) planned.
 
 ### Pokémon Club
 
