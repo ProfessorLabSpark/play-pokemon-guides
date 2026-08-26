@@ -22,7 +22,7 @@ Draft proposals open for community review — not yet adopted guidance. See each
 
 ## Contributing
 
-Feedback, corrections, and disagreement are welcome, especially on anything in `rfc/`. Open an issue or pull request.
+Feedback, corrections, and disagreement are welcome, especially on anything in `rfc/`. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute and this repo's AI usage policy.
 
 ## License
 
