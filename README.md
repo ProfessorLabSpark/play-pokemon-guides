@@ -24,4 +24,4 @@ Feedback, corrections, and disagreement are welcome, especially on anything in `
 
 ## License
 
-[GPL-3.0](LICENSE).
+[CC BY-SA 4.0](LICENSE) — copy, adapt, and redistribute freely; credit the original author; keep derivatives under the same license.
