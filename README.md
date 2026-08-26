@@ -2,6 +2,10 @@
 
 A repository of guides based on experience as a Pokémon Professor — covering judging, tournament organizing, and community programs like Pokémon Clubs.
 
+## Disclaimer
+
+This repository is not affiliated with, endorsed by, or originated by Pokémon, The Pokémon Company International, or any of its affiliates. It's an independent community resource, not authoritative documentation. For official rules and guidelines, refer to the original Play! Pokémon documentation.
+
 ## Contents
 
 ### Professor Guides
