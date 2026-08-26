@@ -20,7 +20,7 @@ This repository is not affiliated with, endorsed by, or originated by Pokémon, 
 
 ### RFCs (Proposals Under Discussion)
 
-Draft proposals open for community review — not yet adopted guidance. See each document's own status note for where it stands.
+Draft proposals open for community review — not yet adopted guidance. See each document's own status note for where it stands, and [rfc/README.md](rfc/README.md) for how the review process works.
 
 - [Pokémon TCG Judge & Tournament Organizer Community Guideline (Proposed)](<rfc/Pokémon TCG Judge & Tournament Organizer Community Guideline (Proposed).md>) — a proposed compensation, staffing, and compliance guideline for league-level events (League Challenges, League Cups) run with an independently requested Professor.
 
